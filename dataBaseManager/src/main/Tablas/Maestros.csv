@@ -1,0 +1,3 @@
+int id,nombre varchar(20)
+10,'Erick'
+10,null
